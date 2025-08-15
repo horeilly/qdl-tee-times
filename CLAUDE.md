@@ -48,3 +48,12 @@ The project uses Black formatter with the following configuration:
 - Line length: 88 characters
 - Target Python version: 3.12+
 - Preview features enabled
+
+## Best Practices
+
+- Care deeply about code craftsmanship and maintainability
+- Care deeply about code quality and readability
+- Explicit code is better than implicit code
+- Use type hints and docstrings for clarity
+- Keep functions small and focused on single responsibilities
+- Keep explicit `return None` statements for clarity
